@@ -6,10 +6,7 @@
 # 1113384455229 -> [8,9]
 # 1115566773322 -> []
 
-from itertools import count
-from operator import index
 import random
-import re
 
 def list_nums(number: int):
     list_numbers = []
@@ -18,21 +15,17 @@ def list_nums(number: int):
     return list_numbers 
 
 def non_recurring_nums(list_numbers: list):
-   occur = []
-   count = len(list_numbers) - 1
-   index = 0
-   while(index != count):
-        for i in range(1, count):
-            if list_numbers[index] == list_numbers[i]:
-                occur.append(list_numbers[index])
-            index +=1
-        else:
-            index +=1
-             
-        
-            
-   return occur
-               
+    new_list = []
+    for i in range(len(list_numbers)):
+        flag = 1
+        for j in range(len(list_numbers)):
+            if list_numbers[i] == list_numbers[j] and i != j:
+                flag = 0
+                break
+        if flag:
+             new_list.append(list_numbers[i]) 
+    return new_list
+
 list_numbers = list_nums(int(input("enter a number of numbers: ")))
 print(list_numbers)
 print(non_recurring_nums(list_numbers))
