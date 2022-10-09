@@ -6,3 +6,14 @@
 # Результат:
 # 40x⁹ - x⁸ -5x⁷ + 15x⁶ +5x⁴ + 5x³ + x² - 13x¹ + 53 = 0
 
+from random import choice
+
+with open('polinomial1.txt', "r", encoding="utf-8") as f1, \
+        open("polinomial2.txt", "r", encoding="utf-8") as f2:
+        first = f1.readlines()
+        second = f2.readlines()
+
+with open("sum.txt", "a", encoding="utf-8") as f3:
+                for i, v in enumerate(first):
+                    f3.write(f"{v[:-5]} + {second[i]}")
+      
