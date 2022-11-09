@@ -1,0 +1,285 @@
+30-10-2022 23:47:55 - main - INFO - <module> - Start program
+30-10-2022 23:47:57 - user_interface - INFO - menu_calc - Start menu calc.
+30-10-2022 23:48:00 - excep - WARNING - check_in_one - Incorrect data entered: 'sd'!
+30-10-2022 23:48:14 - excep - WARNING - check_in_one - Incorrect data entered: 'в'!
+30-10-2022 23:48:15 - excep - WARNING - check_in_one - Incorrect data entered: '12'!
+30-10-2022 23:48:15 - user_interface - INFO - menu_calc - Sqrt: 12 / 0 = 3.4641016151377544
+30-10-2022 23:48:17 - user_interface - INFO - menu_calc - Stop calc menu
+30-10-2022 23:48:19 - user_interface - INFO - menu - Stop program.
+30-10-2022 23:49:21 - main - INFO - <module> - Start program
+30-10-2022 23:49:23 - user_interface - INFO - menu_calc - Start menu calc.
+30-10-2022 23:49:26 - excep - WARNING - check_in - Incorrect data entered: 'as', 'sa'!
+30-10-2022 23:49:31 - excep - WARNING - check_in - Incorrect data entered: 's', 's'!
+30-10-2022 23:49:32 - user_interface - INFO - menu_calc - Sub: 1 - 2 = 3
+30-10-2022 23:49:40 - excep - WARNING - check_in_one - Incorrect data entered: 'sd'!
+30-10-2022 23:50:18 - excep - WARNING - check_in_one - Incorrect data entered: '2'!
+30-10-2022 23:50:18 - user_interface - INFO - menu_calc - Sqrt: 2 / 2 = 1.4142135623730951
+30-10-2022 23:50:20 - user_interface - INFO - menu_calc - Stop calc menu
+30-10-2022 23:50:21 - user_interface - INFO - menu - Stop program.
+30-10-2022 23:51:09 - main - INFO - <module> - Start program
+30-10-2022 23:51:10 - user_interface - INFO - menu_calc - Start menu calc.
+30-10-2022 23:51:14 - excep - WARNING - check_in_one - Incorrect data entered: 'ффы'!
+30-10-2022 23:52:21 - main - INFO - <module> - Start program
+30-10-2022 23:52:24 - user_interface - INFO - menu_calc - Start menu calc.
+30-10-2022 23:52:29 - excep - WARNING - check_in_one - Incorrect data entered: 'se'!
+30-10-2022 23:52:30 - excep - WARNING - check_in_one - Incorrect data entered: '4f'!
+30-10-2022 23:52:32 - excep - WARNING - check_in_one - Incorrect data entered: '34'!
+30-10-2022 23:52:32 - user_interface - INFO - menu_calc - Sqrt: 34 = 5.830951894845301
+30-10-2022 23:52:35 - user_interface - INFO - menu_calc - Stop calc menu
+30-10-2022 23:52:37 - user_interface - INFO - menu_calc - Start menu calc.
+30-10-2022 23:52:44 - excep - WARNING - check_in_one - Incorrect data entered: '3'!
+30-10-2022 23:52:46 - excep - WARNING - check_in_one - Incorrect data entered: '12'!
+30-10-2022 23:52:46 - user_interface - INFO - menu_calc - Sqrt: (12+0j) = (3.4641016151377544+0j)
+30-10-2022 23:52:48 - user_interface - INFO - menu_calc - Stop calc menu
+30-10-2022 23:52:50 - user_interface - INFO - menu - Stop program.
+30-10-2022 23:54:42 - main - INFO - <module> - Start program
+30-10-2022 23:54:46 - user_interface - INFO - menu_calc - Start menu calc.
+30-10-2022 23:54:54 - excep - WARNING - check_in_one - Incorrect data entered: '3'!
+30-10-2022 23:54:57 - excep - WARNING - check_in_one - Incorrect data entered: '12'!
+30-10-2022 23:54:57 - user_interface - INFO - menu_calc - Sqrt: (12+34j) = (4.9018115403715745+3.4681055891249826j)
+30-10-2022 23:55:00 - user_interface - INFO - menu_calc - Stop calc menu
+30-10-2022 23:55:01 - user_interface - INFO - menu_calc - Start menu calc.
+30-10-2022 23:55:02 - user_interface - INFO - menu_calc - Stop calc menu
+30-10-2022 23:55:04 - user_interface - INFO - menu - Stop program.
+30-10-2022 23:56:35 - main - INFO - <module> - Start program
+30-10-2022 23:56:38 - user_interface - INFO - menu_calc - Start menu calc.
+30-10-2022 23:56:42 - excep - WARNING - check_in_one - Incorrect data entered: '12', 'sa'!
+30-10-2022 23:56:43 - excep - WARNING - check_in_one - Incorrect data entered: 'sa', '4'!
+30-10-2022 23:56:45 - user_interface - INFO - menu_calc - Sqrt: (4+8j) = (2.544039299028138+1.5723027555148466j)
+30-10-2022 23:56:47 - user_interface - INFO - menu_calc - Stop calc menu
+30-10-2022 23:56:47 - user_interface - INFO - menu - Stop program.
+31-10-2022 00:00:13 - main - INFO - <module> - Start program
+31-10-2022 00:00:17 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 00:01:12 - main - INFO - <module> - Start program
+31-10-2022 00:01:28 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 00:01:33 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 00:02:08 - main - INFO - <module> - Start program
+31-10-2022 00:02:09 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 00:02:12 - excep - WARNING - check_zero_real - Incorrect data entered: '[0]'!
+31-10-2022 00:02:14 - excep - WARNING - check_zero_real - Incorrect data entered: '[0]'!
+31-10-2022 00:02:14 - excep - WARNING - check_zero_real - Incorrect data entered: '[]'!
+31-10-2022 00:02:16 - excep - WARNING - check_zero_real - Incorrect data entered: '[0]'!
+31-10-2022 00:02:16 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 00:02:19 - user_interface - INFO - menu_calc - Div: 3 / 21 = 0.14285714285714285
+31-10-2022 00:02:21 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 00:02:22 - user_interface - INFO - menu - Stop program.
+31-10-2022 00:04:42 - main - INFO - <module> - Start program
+31-10-2022 00:04:43 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 00:04:47 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 00:04:49 - excep - WARNING - check_zero_real - Incorrect data entered: 'sd'!
+31-10-2022 00:04:55 - excep - WARNING - check_zero_real - Incorrect data entered: '0.0'!
+31-10-2022 00:04:56 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 00:05:22 - main - INFO - <module> - Start program
+31-10-2022 00:05:30 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 00:05:32 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 00:05:33 - excep - WARNING - check_zero_real - Incorrect data entered: 'we'!
+31-10-2022 00:05:36 - excep - WARNING - check_zero_real - Incorrect data entered: '0.0'!
+31-10-2022 00:05:38 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 00:05:39 - user_interface - INFO - menu_calc - Div: 3 / 2 = 1.5
+31-10-2022 00:05:41 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 00:05:42 - user_interface - INFO - menu - Stop program.
+31-10-2022 00:06:51 - main - INFO - <module> - Start program
+31-10-2022 00:06:54 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 00:07:01 - excep - WARNING - check_in_one - Incorrect data entered: '12', 'we'!
+31-10-2022 00:07:03 - excep - WARNING - check_in_one - Incorrect data entered: '3', 'у'!
+31-10-2022 00:07:06 - user_interface - INFO - menu_calc - Sqrt: (1+2j) = (1.272019649514069+0.7861513777574233j)
+31-10-2022 00:07:08 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 00:07:09 - user_interface - INFO - menu - Stop program.
+31-10-2022 18:13:48 - main - INFO - <module> - Start program
+31-10-2022 18:13:50 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 18:13:58 - user_interface - INFO - menu_calc - Sqrt: 12 = 3.4641016151377544
+31-10-2022 18:14:20 - excep - WARNING - check_in_one - Incorrect data entered: 'уц'!
+31-10-2022 18:14:21 - user_interface - INFO - menu_calc - Sqrt: 45 = 6.708203932499369
+31-10-2022 18:14:27 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:14:29 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:14:32 - excep - WARNING - check_in_one - Incorrect data entered: '21', 'вы'!
+31-10-2022 18:14:35 - excep - WARNING - check_in_one - Incorrect data entered: '1', 'в'!
+31-10-2022 18:14:37 - user_interface - INFO - menu_calc - Sqrt: (1+0j) = (1+0j)
+31-10-2022 18:14:44 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:14:57 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 18:15:04 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 18:15:06 - user_interface - INFO - menu_divisions - Stop divisions menu
+31-10-2022 18:15:06 - user_interface - INFO - menu_calc - Div: 12 None 23 = 0.5217391304347826
+31-10-2022 18:17:12 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:17:15 - user_interface - INFO - menu - Stop program.
+31-10-2022 18:17:17 - main - INFO - <module> - Start program
+31-10-2022 18:17:22 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 18:17:26 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 18:17:28 - user_interface - INFO - menu_divisions - Stop divisions menu
+31-10-2022 18:17:34 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:17:35 - user_interface - INFO - menu - Stop program.
+31-10-2022 18:18:14 - main - INFO - <module> - Start program
+31-10-2022 18:18:16 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:19:14 - main - INFO - <module> - Start program
+31-10-2022 18:19:18 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 18:19:24 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 18:19:27 - user_interface - INFO - menu_calc - Div: 23 / 3 = 7.666666666666667
+31-10-2022 18:19:31 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 18:19:33 - excep - WARNING - check_zero_real - Incorrect data entered: 'вы'!
+31-10-2022 18:19:35 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 18:19:36 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 18:19:37 - user_interface - INFO - menu_calc - Div: 1 / 1 = 1.0
+31-10-2022 18:19:41 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:19:42 - user_interface - INFO - menu - Stop program.
+31-10-2022 18:25:54 - main - INFO - <module> - Start program
+31-10-2022 18:25:56 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:26:03 - user_interface - INFO - menu_calc - Div: (21+12j) / (34+5j) = (0.655376799322608+0.25656223539373413j)
+31-10-2022 18:26:15 - user_interface - INFO - menu_calc - Div: (23+4j) / (45+0j) = (0.5111111111111111+0.08888888888888889j)
+31-10-2022 18:26:24 - excep - WARNING - check_zero_comp - Incorrect data entered: '0j'!
+31-10-2022 18:26:27 - excep - WARNING - check_zero_comp - Incorrect data entered: '0j'!
+31-10-2022 18:26:30 - excep - WARNING - check_in - Incorrect data entered: '23', 'fd'!
+31-10-2022 18:28:23 - main - INFO - <module> - Start program
+31-10-2022 18:28:25 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 18:28:29 - excep - WARNING - check_in - Incorrect data entered: 're', 'er'!
+31-10-2022 18:28:31 - excep - WARNING - check_in - Incorrect data entered: 'er', '4'!
+31-10-2022 18:28:32 - excep - WARNING - check_in - Incorrect data entered: '4', 'df'!
+31-10-2022 18:28:34 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 18:28:36 - user_interface - INFO - menu_calc - Div: 4 / 5 = 0.8
+31-10-2022 18:28:48 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:28:49 - user_interface - WARNING - menu - Main menu, wrong item selected.
+31-10-2022 18:28:55 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:28:58 - excep - WARNING - check_in - Incorrect data entered: 'qw', '32'!
+31-10-2022 18:29:46 - main - INFO - <module> - Start program
+31-10-2022 18:29:49 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:29:55 - excep - WARNING - check_in - Incorrect data entered: 'ё1', 'sa'!
+31-10-2022 18:30:21 - main - INFO - <module> - Start program
+31-10-2022 18:30:23 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:30:33 - excep - WARNING - check_in - Incorrect data entered: 'вы', 'вы'!
+31-10-2022 18:30:58 - main - INFO - <module> - Start program
+31-10-2022 18:30:59 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:31:27 - excep - WARNING - check_in - Incorrect data entered: '32', 'we'!
+31-10-2022 18:32:50 - main - INFO - <module> - Start program
+31-10-2022 18:32:51 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 18:32:52 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:32:53 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:32:57 - excep - WARNING - check_in - Incorrect data entered: '23', 'we'!
+31-10-2022 18:33:41 - main - INFO - <module> - Start program
+31-10-2022 18:33:43 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:34:19 - excep - WARNING - check_in - Incorrect data entered: '54', 'у'!
+31-10-2022 18:35:12 - main - INFO - <module> - Start program
+31-10-2022 18:35:18 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:35:20 - excep - WARNING - check_in - Incorrect data entered: 'we', 'we'!
+31-10-2022 18:40:22 - main - INFO - <module> - Start program
+31-10-2022 18:40:24 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:40:27 - excep - WARNING - check_in - Incorrect data entered: 'sd', 'sd'!
+31-10-2022 18:40:30 - excep - WARNING - check_in - Incorrect data entered: 'вы', 'вы'!
+31-10-2022 18:40:35 - excep - WARNING - check_in - Incorrect data entered: '3', 'у'!
+31-10-2022 18:41:15 - excep - WARNING - check_in - Incorrect data entered: '1', 'sd'!
+31-10-2022 18:41:51 - main - INFO - <module> - Start program
+31-10-2022 18:41:52 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:42:19 - user_interface - INFO - menu_calc - Sum: (21+21j) + (3+3j) = (18+18j)
+31-10-2022 18:42:45 - excep - WARNING - check_in - Incorrect data entered: '2', 'sd'!
+31-10-2022 18:43:06 - excep - WARNING - check_in - Incorrect data entered: 'sd', 'вы'!
+31-10-2022 18:43:52 - excep - WARNING - check_in - Incorrect data entered: 'уц', 'уц'!
+31-10-2022 18:46:32 - main - INFO - <module> - Start program
+31-10-2022 18:46:33 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 18:46:35 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:46:35 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:48:27 - main - INFO - <module> - Start program
+31-10-2022 18:48:29 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 18:48:40 - excep - WARNING - check_in - Incorrect data entered: 's', '3'!
+31-10-2022 18:49:10 - user_interface - INFO - menu_calc - Sum: 23 + 23 = 0
+31-10-2022 18:49:23 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:49:27 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:49:42 - excep - WARNING - check_in - Incorrect data entered: 'qw', '32'!
+31-10-2022 18:51:45 - main - INFO - <module> - Start program
+31-10-2022 18:51:46 - main - INFO - <module> - Start program
+31-10-2022 18:51:47 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:51:50 - excep - WARNING - check_in - Incorrect data entered: 'wq', 'wq'!
+31-10-2022 18:53:33 - main - INFO - <module> - Start program
+31-10-2022 18:53:35 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:54:17 - excep - WARNING - check_in - Incorrect data entered: 'sd', 'ew'!
+31-10-2022 18:57:58 - main - INFO - <module> - Start program
+31-10-2022 18:58:00 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 18:58:03 - excep - WARNING - check_in - Incorrect data entered: 'вы', 'вы'!
+31-10-2022 18:58:05 - excep - WARNING - check_in - Incorrect data entered: 'вы', 'вы'!
+31-10-2022 18:58:07 - excep - WARNING - check_in - Incorrect data entered: 'вы', 'sd'!
+31-10-2022 18:58:09 - user_interface - INFO - menu_calc - Sum: (12+12j) + (1+2j) = (11+10j)
+31-10-2022 18:59:19 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 18:59:20 - user_interface - INFO - menu - Stop program.
+31-10-2022 19:00:03 - main - INFO - <module> - Start program
+31-10-2022 19:00:04 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:00:08 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 19:00:09 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 19:00:10 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 19:00:11 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 19:00:13 - user_interface - INFO - menu_calc - Div: 2 / 87 = 0.022988505747126436
+31-10-2022 19:00:15 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:00:17 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 19:00:22 - excep - WARNING - check_zero_comp - Incorrect data entered: '0j'!
+31-10-2022 19:00:27 - excep - WARNING - check_in - Incorrect data entered: '0/0 ', '0.0'!
+31-10-2022 19:00:34 - excep - WARNING - check_zero_comp - Incorrect data entered: '0j'!
+31-10-2022 19:00:36 - excep - WARNING - check_zero_comp - Incorrect data entered: '0j'!
+31-10-2022 19:00:42 - user_interface - INFO - menu_calc - Div: (23+32j) / (12+1j) = (2.1241379310344826+2.489655172413793j)
+31-10-2022 19:04:06 - main - INFO - <module> - Start program
+31-10-2022 19:04:07 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:04:09 - user_interface - INFO - menu_calc - Sum: 21 + 12 = 9
+31-10-2022 19:04:20 - user_interface - INFO - menu_calc - Sub: 12 - 2 = 14
+31-10-2022 19:04:27 - user_interface - INFO - menu_calc - Mul: 45 * 2 = 90
+31-10-2022 19:04:33 - user_interface - INFO - menu_calc - Pow: 2 ^ 3 = 8
+31-10-2022 19:04:41 - user_interface - INFO - menu_calc - Sqrt: 21 = 4.58257569495584
+31-10-2022 19:05:38 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:05:39 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 19:05:43 - user_interface - INFO - menu_calc - Sum: (12+23j) + (23+1j) = (-11+22j)
+31-10-2022 19:07:22 - excep - WARNING - check_in - Incorrect data entered: '4', ''!
+31-10-2022 19:07:24 - user_interface - INFO - menu_calc - Sub: (12+21j) - (44+5j) = (56+26j)
+31-10-2022 19:07:34 - user_interface - INFO - menu_calc - Mul: (6+7j) * (2+3j) = (-9+32j)
+31-10-2022 19:07:44 - user_interface - INFO - menu_calc - Pow: (12+34j) ^ (56+67j) = (6.359382106380069e+50+2.1814171958852825e+51j)
+31-10-2022 19:07:52 - user_interface - INFO - menu_calc - Sqrt: (3+2j) = (1.8173540210239707+0.5502505227003375j)
+31-10-2022 19:08:29 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:08:30 - user_interface - INFO - menu - Stop program.
+31-10-2022 19:08:59 - main - INFO - <module> - Start program
+31-10-2022 19:09:01 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:09:13 - user_interface - INFO - menu_calc - Sqrt: 34 = 5.830951894845301
+31-10-2022 19:09:31 - user_interface - INFO - menu_calc - Mul: 21 * 21 = 441
+31-10-2022 19:09:44 - user_interface - INFO - menu_calc - Sqrt: 45 = 6.708203932499369
+31-10-2022 19:09:56 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:10:04 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 19:10:20 - user_interface - INFO - menu_calc - Sum: (12+2j) + (43+34j) = (55+36j)
+31-10-2022 19:10:58 - user_interface - INFO - menu_calc - Sqrt: (2+3j) = (1.6741492280355401+0.895977476129838j)
+31-10-2022 19:11:42 - main - INFO - <module> - Start program
+31-10-2022 19:11:44 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:11:50 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 19:11:51 - user_interface - INFO - menu_calc - Div: 12 / 3 = 4.0
+31-10-2022 19:13:41 - main - INFO - <module> - Start program
+31-10-2022 19:13:42 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:13:46 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 19:13:47 - user_interface - INFO - menu_calc - Div: 23 / 4 = 5.75
+31-10-2022 19:13:53 - user_interface - INFO - menu_calc - Sum: 12 + 21 = 33
+31-10-2022 19:13:57 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 19:13:58 - user_interface - INFO - menu_calc - Div: 34 // 2 = 17.0
+31-10-2022 19:14:04 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 19:14:07 - user_interface - INFO - menu_calc - Div: 3 % 5 = 0.6
+31-10-2022 19:14:12 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:14:23 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 19:14:29 - user_interface - INFO - menu_calc - Div: (23+3j) / (2+5j) = (2.1034482758620694-3.7586206896551726j)
+31-10-2022 19:15:10 - main - INFO - <module> - Start program
+31-10-2022 19:15:12 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 19:15:15 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:15:16 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:15:20 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 19:15:22 - user_interface - INFO - menu_calc - Div: 34 % 22 = 1.5454545454545454
+31-10-2022 19:15:51 - user_interface - INFO - menu_divisions - Start menu divisions.
+31-10-2022 19:15:54 - user_interface - INFO - menu_divisions - Stop divisions menu
+31-10-2022 19:15:57 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:15:58 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 19:16:04 - user_interface - INFO - menu_calc - Div: (12+3j) / (1+5j) = (1.0384615384615385-2.1923076923076925j)
+31-10-2022 19:16:09 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:16:11 - user_interface - INFO - menu - Stop program.
+31-10-2022 19:17:09 - main - INFO - <module> - Start program
+31-10-2022 19:17:11 - user_interface - INFO - menu - Stop program.
+31-10-2022 19:17:13 - main - INFO - <module> - Start program
+31-10-2022 19:17:15 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:17:16 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:19:39 - main - INFO - <module> - Start program
+31-10-2022 19:19:41 - user_interface - INFO - menu_calc - Start menu calc. With complex.
+31-10-2022 19:19:45 - excep - WARNING - check_zero_comp - Incorrect data entered: '0j'!
+31-10-2022 19:19:47 - user_interface - INFO - menu_calc - Div: (21+21j) / 8j = (2.625-2.625j)
+31-10-2022 19:26:09 - main - INFO - <module> - Start program
+31-10-2022 19:26:14 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:26:43 - excep - WARNING - check_zero_real - Incorrect data entered: '0'!
+31-10-2022 19:36:31 - main - INFO - <module> - Start program
+31-10-2022 19:36:33 - user_interface - INFO - menu_calc - Start menu calc. With rational.
+31-10-2022 19:36:38 - user_interface - INFO - menu_calc - Sub: 12 - 3 = 9
+31-10-2022 19:36:42 - user_interface - INFO - menu_calc - Stop calc menu
+31-10-2022 19:36:44 - user_interface - INFO - menu - Stop program.
