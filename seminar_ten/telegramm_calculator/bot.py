@@ -2,6 +2,7 @@ import logging
 from math import sqrt
 
 
+
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove, Update
 from telegram.ext import (
     Updater,
@@ -22,7 +23,10 @@ MENU, CHOICE_NUMBER, CHOICE_OPERATION, ADDITION_NUMS, SUBSTRACTION_NUMS, MULTIPL
 
 
 def start(update, _):
-    update.message.reply_text("Calculator welcomes you!")
+    reply_keyboard = [['Start']]
+    mark_key = ReplyKeyboardMarkup(reply_keyboard, True)
+    update.message.reply_text('Calculator welcomes you! Press start to continue',
+        reply_markup=mark_key)
     return MENU
 
 def menu(update, _):
@@ -191,7 +195,7 @@ if __name__ == '__main__':
     conv_handler = ConversationHandler( 
         entry_points=[CommandHandler('start', start)],
         states={
-            MENU: [MessageHandler(Filters.text&~Filters.command, menu)],
+            MENU: [MessageHandler(Filters.regex('^(Start)$'), menu)],
             CHOICE_NUMBER: [MessageHandler(Filters.regex('^(Rational|Complex|Exit)$'), choice_number)],
             CHOICE_OPERATION: [MessageHandler(Filters.regex(f'^{operation_keybord_main}$'), choice_operation)],
             ADDITION_NUMS: [MessageHandler(Filters.text&~Filters.command, addition)],
